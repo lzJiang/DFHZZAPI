@@ -4,6 +4,8 @@
   <asx:values>
    <DDLS>
     <DDLNAME>ZR_ZT_REST_LOG</DDLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DDTEXT>API日志</DDTEXT>
     <SOURCE_TYPE>W</SOURCE_TYPE>
    </DDLS>
   </asx:values>
